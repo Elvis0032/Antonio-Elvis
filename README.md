@@ -4,4 +4,4 @@
 <br/>Sou do Estado de Alagoas.
 <br/>Sou Técnico em Informática pelo IFAL-Campus Palmeira dos Índios.
 <br/>Atualmente estudo programação como forma de tornar tal estudo, um hobby.
-<br/>E-mail - antonielvis.300@gmail.com
+<br/>E-mail - antonioelvis.300@gmail.com
